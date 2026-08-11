@@ -556,5 +556,6 @@ copy vw_condicao_metereologica to '/workspaces/FAP-2026-AnaliseDados26/Projeto_P
 copy vw_condicao_metereologica to '/workspaces/FAP-2026-AnaliseDados26/Projeto_PRF/Resultado_leitura'
     (HEADER, DELIMITER ';');
 
+SELECT
 
 
